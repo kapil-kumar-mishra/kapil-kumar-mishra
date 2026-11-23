@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
   <!-- Dynamic Typing SVG Header -->
-  <a href="https://github.com/2r41r43r34g1rvcqdsad">
+  <a href="https://github.com/kapil-kumar-mishra">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=55&lines=Hi+%F0%9F%91%8B+I'm+Kapil+Kumar+Mishra;Data+%26+AI+Engineer;Azure+Databricks+%7C+PySpark+%7C+Delta+Lake;Generative+AI+%7C+LLM+Pipelines+%7C+Prompt+Engineering;Architecting+Scalable+Enterprise+Lakehouses" alt="Typing SVG Banner" />
   </a>
 
@@ -12,7 +12,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/kapil-kumar-mishra-490b981b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:mishrakap9685@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/2r41r43r34g1rvcqdsad"><img src="https://img.shields.io/badge/Location-Chennai%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+    <a href="https://github.com/kapil-kumar-mishra"><img src="https://img.shields.io/badge/Location-Chennai%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
   </p>
 
 </div>
@@ -50,12 +50,12 @@
 
 | Project | Highlights & Tech Stack | Link |
 | :--- | :--- | :---: |
-| 🦆 **DuckLake Architecture** | Scalable Medallion Lakehouse ingestion pipelines with PySpark, DuckDB in-process OLAP, Delta Lake, partition optimization, and broadcast joins. | [**View Code ➔**](https://github.com/2r41r43r34g1rvcqdsad/ducklake_project) |
-| 🌐 **Universal Web Extractor** | Production-grade web reader & LLM scraper with TLS anti-bot impersonation, headless stealth browser, PDF parser, and self-hosted Jina Reader drop-in. | [**View Code ➔**](https://github.com/2r41r43r34g1rvcqdsad/universal-scraper) |
-| 🤖 **GenAI Agent Pipeline** | Autonomous AI agent framework with structured prompt execution, deterministic rubric evaluation, and safety guards. | [**View Code ➔**](https://github.com/2r41r43r34g1rvcqdsad/GenAI_Agent) |
-| ☁️ **Azure Cloud Lakehouse (ADF + Databricks)** | End-to-end cloud ETL orchestration syncing transactional databases to ADLS Gen2 with automated data quality gates and Synapse Gold SQL views. | [**View Code ➔**](https://github.com/2r41r43r34g1rvcqdsad/AzureprojectAW) |
-| 🛡️ **SPARC Multi-Tenant Platform** | Enterprise submission intake platform with strict tenant isolation, role-based access control (RBAC), malware scanning gates, and Azure Blob storage. | [**View Code ➔**](https://github.com/2r41r43r34g1rvcqdsad/spsProject) |
-| 🌦️ **Predictive Weather ML Engine** | Supervised ML forecasting pipeline with statistical data preprocessing, hyperparameter tuning, and performance evaluation. | [**View Code ➔**](https://github.com/2r41r43r34g1rvcqdsad/Weather-Forecast-And-Prediction-by-Machine-Learning) |
+| 🦆 **DuckLake Architecture** | Scalable Medallion Lakehouse ingestion pipelines with PySpark, DuckDB in-process OLAP, Delta Lake, partition optimization, and broadcast joins. | [**View Code ➔**](https://github.com/kapil-kumar-mishra/ducklake_project) |
+| 🌐 **Universal Web Extractor** | Production-grade web reader & LLM scraper with TLS anti-bot impersonation, headless stealth browser, PDF parser, and self-hosted Jina Reader drop-in. | [**View Code ➔**](https://github.com/kapil-kumar-mishra/universal-scraper) |
+| 🤖 **GenAI Agent Pipeline** | Autonomous AI agent framework with structured prompt execution, deterministic rubric evaluation, and safety guards. | [**View Code ➔**](https://github.com/kapil-kumar-mishra/GenAI_Agent) |
+| ☁️ **Azure Cloud Lakehouse (ADF + Databricks)** | End-to-end cloud ETL orchestration syncing transactional databases to ADLS Gen2 with automated data quality gates and Synapse Gold SQL views. | [**View Code ➔**](https://github.com/kapil-kumar-mishra/AzureprojectAW) |
+| 🛡️ **SPARC Multi-Tenant Platform** | Enterprise submission intake platform with strict tenant isolation, role-based access control (RBAC), malware scanning gates, and Azure Blob storage. | [**View Code ➔**](https://github.com/kapil-kumar-mishra/spsProject) |
+| 🌦️ **Predictive Weather ML Engine** | Supervised ML forecasting pipeline with statistical data preprocessing, hyperparameter tuning, and performance evaluation. | [**View Code ➔**](https://github.com/kapil-kumar-mishra/Weather-Forecast-And-Prediction-by-Machine-Learning) |
 
 </div>
 
@@ -64,12 +64,12 @@
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2r41r43r34g1rvcqdsad&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="Kapil's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2r41r43r34g1rvcqdsad&layout=compact&theme=radical&hide_border=true" width="49%" alt="Kapil's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kapil-kumar-mishra&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="Kapil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil-kumar-mishra&layout=compact&theme=radical&hide_border=true" width="49%" alt="Kapil's Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com/?user=2r41r43r34g1rvcqdsad&theme=radical&hide_border=true" width="98%" alt="Kapil's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kapil-kumar-mishra&theme=radical&hide_border=true" width="98%" alt="Kapil's GitHub Streak" />
 </div>
 
 ---
@@ -84,5 +84,5 @@
 
 <div align="center">
   <p>💡 <i>"Turning raw data into actionable enterprise intelligence through resilient architecture and modern AI."</i></p>
-  <sub>Designed & Maintained by <a href="https://github.com/2r41r43r34g1rvcqdsad">Kapil Kumar Mishra</a> • Open to Senior Data & AI Engineering Opportunities</sub>
+  <sub>Designed & Maintained by <a href="https://github.com/kapil-kumar-mishra">Kapil Kumar Mishra</a> • Open to Senior Data & AI Engineering Opportunities</sub>
 </div>
